@@ -1,5 +1,6 @@
 # Capstone-Project-Summer-2020-
 Introduction to proposed project- Home security System
+
 Now-a-days security has become a major concern in the accomodation. This project is designed to overcome the increasing problem of theft in home. The main propose to design this project to overcome the following limitations in the existing system, which are as follows-
 ●	In the existing system, Raspberry Pi is used that has less processing speed and don’t have built-in hard disk.
 ●	IR Sensor is being used in existing system, which is suitable for shorter sensing range and even affected by hard objects.
